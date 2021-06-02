@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6011b01d1206db178dbda31f"
+  },
+  "nombre": "Erik Rockets",
+  "presupuesto": 9000000,
+  "jugadores": "['Marc-André ter Stegen', 'Sergio Ramos', 'Iñigo Martínez', 'Juan Bernat', 'Jesús Navas', 'David Silva', 'Paul Pogba', 'Christian Eriksen', 'Adama Traoré', 'Heung-min Son', 'Sergio Agüero']",
+  "usuario": "erik"
+},{
+  "_id": {
+    "$oid": "6011bff72583cc6d5d6d6730"
+  },
+  "nombre": "Real Juasjuas",
+  "presupuesto": 47000000,
+  "jugadores": "['Kepa', 'Raphaël Varane', 'Clément Lenglet', 'Nélson Semedo', 'Daniel Carvajal', 'Miralem Pjanić', 'Dani Parejo', 'Frenkie de Jong', 'Ivan Perisic', 'Marco Asensio', 'Harry Kane']",
+  "usuario": "javier"
+},{
+  "_id": {
+    "$oid": "6011c234cc5a9e7b8779a5df"
+  },
+  "nombre": "FC Julius",
+  "presupuesto": 2830000,
+  "jugadores": "['David de Gea', 'Stefan Savic', 'Marquinhos', 'Sergi Roberto', 'João Cancelo', 'Luka Modric', 'Marcos Llorente', 'James Rodríguez', 'Leroy Sané', 'Ousmane Dembélé', 'Edinson Cavani']",
+  "usuario": "julio"
+},{
+  "_id": {
+    "$oid": "6011c8989554821718ce7447"
+  },
+  "nombre": "Robertito United",
+  "presupuesto": 5200000,
+  "jugadores": "['Manuel Neuer', 'Gerard Piqué', 'Eric García', 'Kieran Trippier', 'Héctor Bellerín', 'Thiago', 'Jordan Henderson', 'Saúl Ñíguez', 'Raheem Sterling', 'Ángel Di María', 'Marc Bartra']",
+  "usuario": "roberto"
+},{
+  "_id": {
+    "$oid": "6011ca8c3832165d88b4cdb6"
+  },
+  "nombre": "Atletico de Juanin",
+  "presupuesto": 760000,
+  "jugadores": "['Thibaut Courtois', 'Kalidou Koulibaly', 'Mats Hummels', 'César Azpilicueta', 'Kyle Walker', 'Sergio Busquets', 'Jadon Sancho', 'Federico Valverde', 'Willian', 'Neymar', 'Iago Aspas']",
+  "usuario": "juan"
+},{
+  "_id": {
+    "$oid": "60b53869dec0ba8abd992f18"
+  },
+  "nombre": "prueba",
+  "presupuesto": 255000000,
+  "jugadores": "['Dani Olmo']",
+  "usuario": "prueba"
+},{
+  "_id": {
+    "$oid": "60b760e9172e8844228f1a62"
+  },
+  "nombre": "Los mejores",
+  "presupuesto": 300000000,
+  "jugadores": null,
+  "usuario": "prueba3"
+}]
